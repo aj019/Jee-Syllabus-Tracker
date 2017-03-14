@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "278250656516",
+    "firebase_url": "https://jee-syllabus-tracker.firebaseio.com",
+    "project_id": "jee-syllabus-tracker",
+    "storage_bucket": "jee-syllabus-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278250656516:android:8c176f5e298c3423",
+        "android_client_info": {
+          "package_name": "com.androidmate.jee_syllabus_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278250656516-70rnrn7mbaujtfdu3td9rtqmvg3c8nhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidmate.jee_syllabus_tracker",
+            "certificate_hash": "DC3CBB50B95B11DD19E8DF634FF83A3696707871"
+          }
+        },
+        {
+          "client_id": "278250656516-r6jb7omelgk8ku1h39l8dgt7mhf4evf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmJA8Q5rMzT4U_5FYAmiWnnKS7a0f1n_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278250656516-r6jb7omelgk8ku1h39l8dgt7mhf4evf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
